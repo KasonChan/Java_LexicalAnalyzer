@@ -8,7 +8,7 @@ This program use jflex tool to automatically construct a lexical analyzer for Ti
 <pre>make clean TinyJava TinyJavaLexer TinyJavaLex</pre>
 
 (2) To execute the program, enter:
-<pre>java TinyJavaLex < Tests/Test1.java</pre>
+<pre>java TinyJavaLex &lt; Tests/Test1.java</pre>
     
 (3) To clean up all the generated files, enter:
 <pre>make clean</pre>
